@@ -1,0 +1,11 @@
+SECTIONS - 
+ Social links(Header) , 
+ Main navigation( Contact Us [form] ) , 
+ Slider
+ About us
+ Services
+ Portfolio(Slider)
+ Teams Section(hover, Overlay)
+ Review 
+ Blog 
+ Contact Us (Footer)
